@@ -21,6 +21,6 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method!! June27 first commit");
+	  System.out.println("Hello from Main Method! June27 first commit");
   }
 }
